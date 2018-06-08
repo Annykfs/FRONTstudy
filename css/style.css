@@ -1,0 +1,289 @@
+
+#space{
+  width: 100%;
+  height: 600px;
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+}
+.btn{
+  background: orange;
+  width: 300px;
+  margin-top:10px;
+}
+
+#formcad{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+margin-top:200px;
+width: 300px;
+margin-left: -400px;
+}
+#hcadast{
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  margin-left: 20px;
+  padding-top: 30px;
+}
+#identifique{
+  font-size: 40px;
+  width: 500px;
+  text-align: center;
+  font-weight: 400;
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+}
+
+table{
+  margin-left: 45%;
+  transform: translateX(-250px);
+  margin-top: 100px;
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+}
+th{
+  padding-top: 0;
+  padding-bottom:  0;
+  height: 40px;
+  width: 500px;
+  background-color: #fbda73;
+padding-right: 50px;
+  padding-left: 50px;
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+
+
+}
+.inst-dados{
+  padding-top: 0;
+  padding-bottom:  0;
+font-size: 19px;
+  height: 15px;
+  width: 500px;
+  background-color: #fbda73;
+padding-right: 50px;
+  padding-left: 50px;
+  font-weight: lighter;
+}.inst-esqueci{
+  padding-top: 0;
+  padding-bottom:  0;
+font-size: 14px;
+  height: 15px;
+  width: 500px;
+  background-color: #fbda73;
+padding-right: 50px;
+  padding-left: 50px;
+}
+
+#inputbutt{
+  width: 498px;
+  background-color: orange;
+  border: orange;
+  border-radius: 20px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+
+}
+
+/*---------MANUTENÇÃO---------------*/
+
+
+#imgtijolo{
+  position: absolute;
+  left: 500px;
+
+}
+#manutenção{
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+/*------BOTTOM--------*/
+
+
+.veg{
+  max-width: 300px;
+  max-height: 300px;
+  margin: 20px;
+  margin-left: 40px;
+}
+
+#bottom{
+  height: 300px;
+  width: 100%;
+  background-color: #d5d3d3;
+  margin-top: 150px;
+}
+
+/*--------------PEDIDO EMAIL----*/
+#divpedido{
+  height: 60px;
+  width: 100%;
+  text-align: center;
+  margin-top: 70px;
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+h1{
+  font-style:italic;
+  margin-bottom: 50px;
+}
+
+/*---------------------ENCOMENDAS FOTO ----------------*/
+.encom{
+  width: 1900px;
+  height: 206px;
+  background-color: black;
+  position: relative;
+  bottom: -200;
+  margin-top: 80px;
+
+}
+/
+/*---------------------PRODUTOS ----------------*/
+#divprodutos{
+  width: 100%
+  height:1000px;
+  position: absolute;
+  left: 175px;
+
+}
+.subtitulo{
+  color: black;
+  margin: 0;
+  text-align: center;
+  margin-top: -25px;
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.imgprod{
+  height: 450px;
+  width: 450px;;
+  margin: 25px;
+
+}
+div#divprodutos a{
+    text-decoration:none;
+}
+div#divprodutos ul{
+    list-style: none;
+
+  }
+div#divprodutos li {
+    display: inline-block;
+  }
+a:hover{
+    text-decoration: underline;
+  }
+
+/*---------------------SAUDACAO ----------------*/
+#divsaudacao{
+height: 60px;
+width: 100%;
+text-align: center;
+margin-top: 70px;
+font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+font-style:italic;
+font-size: 10px;
+}
+
+/*-----------SLIDE----------------*/
+#container{
+  width: 100%;
+  height: 334px;
+  position: relative;
+}
+#container>img{
+  width: 100%;
+  height:100%;
+  position:absolute;
+}
+#container>.btn{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  top: 50%;
+  transform: translateY(-25px);
+
+  background-color: rgba(10,23,55,0.5);
+}
+#container>#btn1{
+  box-shadow: 10px
+}
+#container>#btn2{
+  position: relative;
+  float: right;
+}
+
+
+/*-----------------------MENU TOPO-----------------------*/
+#menuzin{
+  width: 700px;
+  height: 50px;
+
+  background-color:none;
+  position:absolute;
+  top: 35px;
+  right: 1%;
+}
+div#menuzin ul {
+  list-style: none;
+}
+div#menuzin li {
+  display: inline-block;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+.textmenu{
+  font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+  margin-left: 50px;
+  color: #1b0506;
+  font-weight: bold;
+  font-size: 25px;
+  border: none;
+  text-decoration:none;
+}
+/*-----------------------CABEÇALHO-----------------------*/
+#divtopo{
+width: 100%;
+height: 120px;
+background-color: #fbda73 ;
+}
+#imglogo{
+  max-width: 300px;
+  max-height: 300px;
+  margin: 20px;
+  margin-left: 30px;
+}
+/*-----------------------OUTROS-----------------------*/
+body{
+margin: 0;
+background-color: white;
+}
+/*-----------------------SEARCH BOX AND BUTTON-----------------------*/
+form{
+position: absolute;
+top: 35px;
+left: 23%;
+}
+.search{
+  width:700px;
+  height:45px;
+  border: 2px solid white;
+  border-radius: 40px;
+  background-color: white;
+
+}
+.butt{
+  width: 45px;
+  height: 45px;
+  border: 2px solid #5599b1;
+border-radius: 40px;
+  background-color: #5599b1;
+  cursor: pointer;
+}
