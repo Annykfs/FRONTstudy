@@ -1,3 +1,3 @@
 # FRONTstudy - QuadrArt 
 
-it's not responsive 
+it's not responsive at all
