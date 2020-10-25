@@ -41,48 +41,6 @@ table {
     font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
 }
 
-th {
-    padding-top: 0;
-    padding-bottom: 0;
-    height: 40px;
-    width: 500px;
-    background-color: #fbda73;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
-}
-
-.inst-dados {
-    padding-top: 0;
-    padding-bottom: 0;
-    font-size: 19px;
-    height: 15px;
-    width: 500px;
-    background-color: #fbda73;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-weight: lighter;
-}
-
-.inst-esqueci {
-    padding-top: 0;
-    padding-bottom: 0;
-    font-size: 14px;
-    height: 15px;
-    width: 500px;
-    background-color: #fbda73;
-    padding-right: 50px;
-    padding-left: 50px;
-}
-
-#inputbutt {
-    width: 498px;
-    background-color: orange;
-    border: orange;
-    border-radius: 20px;
-    margin-top: 5px;
-    cursor: pointer;
-}
 
 
 /*---------MANUTENÇÃO---------------*/
